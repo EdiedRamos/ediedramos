@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hola, soy Edied Isaías Ramos Hernández.
-Me encanta 💛💙❤️:<br>💻 Resolver problemas. <br>👨🏽‍💻 Compartir mis conocimientos.<br>🤓 Adquirir nuevo conocimiento.<br>⚒️ Construir proyectos en equipo.<br><br>
+Me encanta :<br>💻 Resolver problemas. <br>👨🏽‍💻 Compartir mis conocimientos.<br>🤓 Adquirir nuevo conocimiento.<br>⚒️ Construir proyectos en equipo.<br><br>
 
 
 ## 🌐 Socials:
