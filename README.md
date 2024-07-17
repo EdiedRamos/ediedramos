@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Edied Isaías Ramos Hernández, un desarrollador fullstack con dos años de experiencia.
+Hola, soy `Edied Isaías Ramos Hernández`, un desarrollador `fullstack` con `dos años de experiencia`.
 Apasionado por la resolución de problemas, y en busca de nuevos conocimientos constantemente.
 
 
