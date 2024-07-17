@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hola, soy Edied Isaías Ramos Hernández.
-Me encanta :<br>💻 Resolver problemas. <br>👨🏽‍💻 Compartir mis conocimientos.<br>🤓 Adquirir nuevo conocimiento.<br>⚒️ Construir proyectos en equipo.<br><br>
+Hola, soy Edied Isaías Ramos Hernández, un desarrollador fullstack con dos años de experiencia.
+Apasionado por la resolución de problemas, y en busca de nuevos conocimientos constantemente.
 
 
 ## 🌐 Socials:
