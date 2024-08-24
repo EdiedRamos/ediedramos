@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hola, soy `Edied Isaías Ramos Hernández`, un desarrollador `fullstack` con `dos años de experiencia`.
-Apasionado por la `resolución de problemas`, y en busca de nuevos `conocimientos` constantemente.
+Hello, I'm `Edied Isaías Ramos Hernández`, a `full-stack` developer with `two years of experience`.
+I'm passionate about `problem-solving` and constantly seeking new `knowledge`.
 
 ## Mi portafolio:
 [EdiedRamos](https://ediedramos.vercel.app/)
