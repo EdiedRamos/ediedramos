@@ -3,7 +3,7 @@
 Hello, I'm `Edied Isaías Ramos Hernández`, a `full-stack` developer with `two years of experience`.
 I'm passionate about `problem-solving` and constantly seeking new `knowledge`.
 
-## 📃 My portafolio:
+## 📃 My portfolio:
 [EdiedRamos](https://ediedramos.vercel.app/)
 
 ## 🌐 Socials:
