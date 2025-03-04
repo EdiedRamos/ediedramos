@@ -1,6 +1,6 @@
 ## 💻 EdiedRamos 🧑🏽‍💻
 # 🦉About Me: 
-Hello, I'm `Edied Isaías Ramos Hernández`, a `frontend` developer with `three years of experience`.
+Hello, I'm `Edied Isaías Ramos Hernández`, a `frontend developer` with `three years of experience`.
 I'm passionate about `problem-solving` and constantly seeking new `knowledge`.
 
 # 📃 My portfolio:
