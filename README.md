@@ -6,7 +6,7 @@ I'm passionate about `problem-solving` and constantly seeking new `knowledge`.
 ## 📃 My portfolio
 [EdiedRamos](https://ediedramos.vercel.app/)
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ediedramos) 
 
 ## 💻 Tech Stack
